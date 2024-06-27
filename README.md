@@ -1,3 +1,15 @@
+<h1 align="center">
+Teste a Sua Lâmpada
+</h1>
+
+<p align="center">
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/degabrielofi/LampTest?color=f7e018">
+
+  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/degabrielofi/LampTest?color=f7e018">
+
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/degabrielofi/LampTest?color=f7e018">
+</p>
+
 # :clipboard: Sobre o projeto
 
 Site simples no qual você pode acender ou desligar uma lâmpada!
