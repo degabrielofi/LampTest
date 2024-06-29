@@ -1,5 +1,5 @@
 <h1 align="center">
-Teste a Sua Lâmpada
+Teste a Sua Lâmpada 💡
 </h1>
 
 <p align="center">
